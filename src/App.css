@@ -6,6 +6,7 @@
   --mainDark: #232528;
   --mainYellow: #ffa400;
   --transition: all 1s linear;
+  height: 100vh;
 }
 
 body {
